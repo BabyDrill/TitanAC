@@ -26,7 +26,7 @@ server_scripts {
 }
 
 files {
-	'nui/index.html',
+    'nui/index.html',
     'nui/wolf.js',
     'nui/wolf.css',
     'nui/img/*.png'

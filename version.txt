@@ -1,1 +1,1 @@
-{"version":"3.0", "notes":"It is not mandatory to change version."}
+{"version":"3.5", "notes":"It is not mandatory to change version."}
